@@ -52,10 +52,10 @@ Currently focused on building **AWS serverless projects** using **Python, Dynamo
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/avinash-s-aws) www.linkedin.com/in/avinash-s-aws
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/avinash-s-aws) 
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/avinashmax)
 [![Credly](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/avinash-s.cb267515)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:savinashjr001@gmail.com) savinashjr001@gmail.com
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:savinashjr001@gmail.com) 
 
 ---
 
