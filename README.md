@@ -26,9 +26,7 @@ Currently focused on building **AWS serverless projects** using **Python, Dynamo
 
 ### 🏆 Certifications
 - 🥇 **AWS re/Start Graduate**  
-  [🔗 View Credential →](https://www.credly.com/badges/41dcbde7-7f0b-4f20-9c4b-44f2da62df63)
 - 🤖 **IBM – Robots are Coming! Build IoT Apps with Watson AI, Swift, and Node-RED**  
-  [🔗 View Credential →](https://www.credly.com/badges/5957e4e4-77b3-4d17-a731-8e316fd2c45e)
 - 🔐 **Verified on Credly:** [https://www.credly.com/users/avinash-s.cb267515/badges](https://www.credly.com/users/avinash-s.cb267515/badges)
 
 ---
@@ -48,14 +46,6 @@ Currently focused on building **AWS serverless projects** using **Python, Dynamo
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avinashmax&layout=compact&theme=github_dark" />
-</p>
-
----
-
-### 🪪 Badges & Achievements
-<p align="center">
-  <img src="https://images.credly.com/size/340x340/images/5b1a1f08-5d9a-4cc7-8a29-6f0b3b57f80d/image.png" width="120" title="AWS re/Start Graduate">
-  <img src="https://images.credly.com/size/340x340/images/f7a2a9ef-6892-4c40-92e2-72c3efb24153/image.png" width="120" title="IBM IoT Developer Badge">
 </p>
 
 ---
