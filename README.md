@@ -98,13 +98,13 @@ Git • GitHub • VS Code • Postman
 I actively use modern development tools including **AI-assisted workflows** to improve productivity, accelerate development, and enhance code quality while maintaining full understanding of implementation.
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=avinashmax&layout=compact&theme=github_dark" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" height="170"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=avinashmax&layout=compact&theme=github_dark" height="170"/>
 </p>
+
 ---
 
 ## 🌐 Connect With Me
