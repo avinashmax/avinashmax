@@ -1,47 +1,105 @@
-## 👋 Hi, I'm Avinash S  
-🚀 **AWS Cloud Engineer | Python Developer | DevOps Enthusiast**
+## 👋 Hi, I'm Avinash S
+
+🚀 **Aspiring Cloud Engineer | Full Stack Developer | AWS & Python**
+
+I’m passionate about building scalable cloud applications, modern web interfaces, and automation solutions.  
+Currently focused on **AWS cloud development**, **full stack applications**, and **serverless architecture**.
+
+I enjoy building complete applications — from frontend UI to cloud deployment.
 
 ---
 
-### 🧠 About Me
-I'm passionate about **cloud computing**, **automation**, and **backend development**.  
-Currently focused on building **AWS serverless projects** using **Python, DynamoDB, and Lambda**.
+## 🧠 About Me
 
-- 🧩 **AWS re/Start Graduate** (Amazon Web Services Training and Certification)  
-- 🤖 **IBM Certified:** _Robots are Coming! Build IoT Apps with Watson AI, Swift, and Node-RED_  
-- 💻 **Skilled in:** AWS | Python | Git | GitHub | MySQL | DynamoDB | Lambda | API Gateway  
-- 🎯 **Goal:** To become a Cloud/DevOps Engineer with hands-on automation experience  
-
----
-
-### 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|------------|
-| [**Serverless To-Do App**](https://github.com/avinashmax/serverless-todo-app) | CRUD To-Do app built using AWS Lambda, API Gateway, and DynamoDB | AWS, Python, Boto3 |
-| [**Cloud Automation Tool**](https://github.com/avinashmax/cloud-automation-tool) | Automates EC2 and S3 operations using Python and Boto3 | AWS, Python |
-| [**Student Management System**](https://github.com/avinashmax/student-management-system) | Manage student records using MySQL and Python backend | Python, MySQL |
+- ☁️ AWS re/Start Graduate (Amazon Web Services Training)
+- 💻 Building full stack and cloud-based applications
+- ⚡ Interested in Cloud Engineering, DevOps, and Backend Development
+- 🎯 Goal: Cloud / Full Stack Engineer role
+- 🚀 Strong focus on hands-on learning and real-world projects
 
 ---
 
-### 🏆 Certifications
-- 🥇 **AWS re/Start Graduate**  
-- 🤖 **IBM – Robots are Coming! Build IoT Apps with Watson AI, Swift, and Node-RED**  
-- 🔐 **Verified on Credly:** [https://www.credly.com/users/avinash-s.cb267515/badges](https://www.credly.com/users/avinash-s.cb267515/badges)
+## 🌱 Currently Learning
+
+- Full Stack Development (Frontend + Backend)
+- React.js & Modern JavaScript
+- AWS Cloud Architecture & Deployment
+- Database Systems (SQL → RDS → DynamoDB)
+- REST API Development
+- Cloud Monitoring & DevOps fundamentals
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Featured Projects
 
-- 🧠 **Languages:** Python, SQL, Bash  
-- ☁️ **Cloud:** AWS (Lambda, S3, EC2, DynamoDB, RDS, IAM, CloudWatch)  
-- 💾 **Databases:** MySQL, DynamoDB  
-- 🧩 **Tools:** Git, GitHub, VS Code, Postman, API Gateway  
-- 🔧 **Other Skills:** REST API Development, Serverless Architectures, Automation  
+### 🎬 Netflix Application
+Netflix-style web app with authentication UI and movie browsing using OMDb API.
+
+**Tech:** React, API Integration, JavaScript  
+🔗 https://github.com/avinashmax/netflix-application
 
 ---
 
-### 📊 GitHub Stats
+### 🌦️ Weather Application
+Real-time weather dashboard using WeatherAPI with responsive UI.
+
+**Tech:** React, Vite, Tailwind, REST API  
+🔗 https://github.com/avinashmax/Weather-application
+
+---
+
+### 🎨 KodNest Premium Build System
+Premium SaaS UI design system with reusable components and responsive layout.
+
+**Tech:** HTML, CSS, JavaScript  
+🔗 https://github.com/avinashmax/kodnest-premium
+
+---
+
+### ☁️ AWS Cloud Projects
+
+- **Serverless To-Do App** — AWS Lambda, API Gateway, DynamoDB
+- **Cloud Automation Tool** — Automates EC2 and S3 using Python
+- **Student Management System** — Database backend using Python + MySQL
+
+---
+
+👉 Explore all projects: https://github.com/avinashmax?tab=repositories
+
+---
+
+## 🏆 Certifications
+
+- AWS re/Start Graduate
+- IBM — Robots are Coming! Build IoT Apps with Watson AI
+- Verified Credly Badges
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Languages
+Python • JavaScript • SQL • Bash
+
+### 🌐 Frontend
+React • HTML • CSS • Tailwind
+
+### ☁️ Cloud & Backend
+AWS (EC2, S3, Lambda, DynamoDB, RDS, IAM, CloudWatch)  
+REST APIs • Serverless Architecture
+
+### 🛠 Tools
+Git • GitHub • VS Code • Postman
+
+---
+
+## 🤖 Development Approach
+
+I actively use modern development tools including **AI-assisted workflows** to improve productivity, accelerate development, and enhance code quality while maintaining full understanding of implementation.
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" />
@@ -50,15 +108,13 @@ Currently focused on building **AWS serverless projects** using **Python, Dynamo
 
 ---
 
-### 🌐 Connect with Me
+## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/avinash-s-aws/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/avinashmax)
-[![Credly](https://img.shields.io/badge/Credly-Badges-orange)](https://www.credly.com/users/avinash-s.cb267515)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:savinashjr001@gmail.com) 
-
----
-
-> “Continuous learning and hands-on building are my keys to growth in cloud computing.” ☁️✨
+- LinkedIn: https://www.linkedin.com/in/avinash-s-aws/
+- GitHub: https://github.com/avinashmax
+- Credly: https://www.credly.com/users/avinash-s.cb267515
+- Email: savinashjr001@gmail.com
 
 ---
+
+⭐ *Continuous learning and hands-on building drive my growth in cloud and software development.*
