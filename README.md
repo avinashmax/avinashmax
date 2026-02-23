@@ -105,7 +105,6 @@ I actively use modern development tools including **AI-assisted workflows** to i
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" />
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=avinashmax&layout=compact&theme=github_dark" />
 </p>
-
 ---
 
 ## 🌐 Connect With Me
