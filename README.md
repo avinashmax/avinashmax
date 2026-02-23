@@ -100,10 +100,7 @@ I actively use modern development tools including **AI-assisted workflows** to i
 ---
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=avinashmax&show_icons=true&theme=github_dark" height="170"/>
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=avinashmax&layout=compact&theme=github_dark" height="170"/>
-</p>
+![Stats](https://stats.dooboo.io/api/github-stats-advanced?login=avinashmax)
 
 ---
 
